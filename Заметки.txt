@@ -14,3 +14,5 @@ git config --global core.quotepath false
 а не для каждого репозитория, как было ранее:
 
 git config --local core.quotepath false
+
+
